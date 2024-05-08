@@ -8,5 +8,5 @@ const ordenarAscendente = (arr) => {
   const numeros = [5, 3, 8, 1, 2];
   const numerosOrdenados = ordenarAscendente(numeros);
   
-  console.log(numerosOrdenados); // Salida: [1, 2, 3, 5, 8]
+  console.log(numerosOrdenados); 
 
