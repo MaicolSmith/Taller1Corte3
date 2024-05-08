@@ -7,7 +7,7 @@ function esPalindromo(palabra) {
     return palabra === palabra.split('').reverse().join('');
 }
 
-// Ejemplos de uso
+// como deberia de salir en la consola 
 console.log(esPalindromo("reconocer")); // true
 console.log(esPalindromo("oso"));       // true
 console.log(esPalindromo("casa"));      // false
