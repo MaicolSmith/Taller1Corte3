@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index:run":"node index.js",
+    "respuesta1":"respuesta1.js",
+    "respuesta3":"respuesta3.js"
   },
   "keywords": [],
   "author": "",
