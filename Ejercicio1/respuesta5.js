@@ -6,7 +6,7 @@ function area_de_un_ciculo(radio) {
     return area;
   }
   
-  // Example usage:
+  //como debe de funcionar
   const radio = 5;
   const area_de_un_ciculovalor = area_de_un_ciculo(radio);
   console.log(`el area de un circulo es: ${radio} is ${area_de_un_ciculovalor}.`);
